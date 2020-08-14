@@ -11,3 +11,4 @@ Algorithms used:-
      5. Random Forset
      6. Xg Boost
 
+Xg Boost Algorithm gave a better result compared to other algorithms.
